@@ -5,7 +5,8 @@ After 4 years as a Language Engineer for Apple (Siri) and Amazon (Alexa) develop
 
 - 💬 Ask me about LLMs, Generative AI, Chatbots
 - 🌱 I’m currently working on Gender Bias and Sexism detection & Inclusive rewriter system  in French
-- 🤗 Check-out my latest projects on [HuggingFace](https://huggingface.co/lidiapierre)
+- 💼 Check-out my [portfolio](https://lidiapierre.github.io) for my latest projects and collaborations
+- 🤗 I upload models, datasets & demos on [HuggingFace](https://huggingface.co/lidiapierre)
 - ⚡   Open for work via my [Upwork profile](https://www.upwork.com/freelancers/~019b58085a1d481c5a)
 
 ### 💻 Tech
